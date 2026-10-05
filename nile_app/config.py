@@ -1,0 +1,8 @@
+COMPANY_NAME = "NILE (PTY) LTD"
+TAGLINE = "The Flow of Steel, Power, and Media."
+NILE_COMMISSION = 0.15
+PROTECTION_FEE = 250
+OWNER_PROTECTION_CONTRIBUTION = 100
+INSPECTION_FEE = 490
+DB_PATH = "nile.db"
+BACKUP_PATH = "nile_forever_save.json"
